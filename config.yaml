@@ -41,3 +41,5 @@ markup:
   goldmark:
     renderer:
       unsafe: yes
+baseurl: https://myaseen208.github.io/Test2/
+publishdir: ../myblog
