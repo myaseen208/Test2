@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://myaseen208.github.io/Test2/
 languageCode: en-us
 title: A Hugo website
 theme: hugo-lithium
@@ -41,5 +41,4 @@ markup:
   goldmark:
     renderer:
       unsafe: yes
-baseurl: https://myaseen208.github.io/Test2/
 publishdir: ../myblog
